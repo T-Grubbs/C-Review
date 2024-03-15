@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JhiK93AR5MWsWlfmwFW2W6EeWKWN3Vg0Vz/WczwqtJ7DETjdwBb9JiJ8CPHBesjA3eqO+7G2AZaK+naZQoPE5g==",
+  "success": true,
+  "projectFilePath": "/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/VarsAndData.csproj",
+  "expectedPackageFiles": [
+    "/Users/travisgrubbs/.nuget/packages/microsoft.netcore.app.ref/6.0.27/microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "/Users/travisgrubbs/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.27/microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "/Users/travisgrubbs/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.27/microsoft.netcore.app.host.osx-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

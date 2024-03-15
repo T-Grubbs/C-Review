@@ -1,0 +1,14 @@
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.deps.json
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.runtimeconfig.json
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.dll
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.pdb
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.AssemblyInfoInputs.cache
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.AssemblyInfo.cs
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.csproj.CoreCompileInputs.cache
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.dll
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/obj/Debug/net6.0/refint/VarsAndData.dll
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.pdb
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.genruntimeconfig.cache
+/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet6/Start/Overview/VarsAndData/obj/Debug/net6.0/ref/VarsAndData.dll

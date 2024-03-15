@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LDKx34KKFDhZ4AgCv/3drooDvv6D+l7r7/QvotBsDLePhoKfgiyfXC2emz9EYHuTOM4PM4J8FrGZvLig9d3nzg==",
+  "success": true,
+  "projectFilePath": "/Users/travisgrubbs/Desktop/C#Review2024/LearningCSharp/DotNet7/Finished/Overview/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/travisgrubbs/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/travisgrubbs/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/travisgrubbs/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.16/microsoft.netcore.app.host.osx-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
